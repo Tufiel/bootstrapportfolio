@@ -144,7 +144,7 @@ function writeSentence(sentence, elementId) {
 	typeCharacter();
   }
 
-  setTimeout(()=>changeBackground(), 15000);
+  setTimeout(()=>changeBackground(), 10);
 let num = 0;
   function changeBackground()
   {
