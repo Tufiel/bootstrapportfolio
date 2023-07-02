@@ -151,7 +151,7 @@ let num = 0;
 	let wheel = document.querySelector("#wheel");
 	  let heading = document.querySelector("#videoheading");
 	  heading.style.color = getRandomColor();
-	  if(num<3)
+	  if(num<1)
 		num++;
 		else
 		num = 0;
